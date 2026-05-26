@@ -6,7 +6,7 @@
 
 ## About cmake_template
 
-This is a C++ Best Practices GitHub template for getting up and running with C++ quickly.
+This is a C++ Best Practices GitHub template for getting up and running with C++ quickly. TMP
 
 By default (when building as the top-level project)
 
